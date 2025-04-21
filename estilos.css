@@ -1,0 +1,9 @@
+#galeria {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.imagen {
+    aspect-ratio: 1 / 1;
+}
